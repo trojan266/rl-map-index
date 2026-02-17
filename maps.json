@@ -1,16 +1,10 @@
 [
   {
     "id": "1",
-    "title": "Dribbling Challenge #2",
-    "author": "French Fries",
-    "download_url": "https://github.com/rocket-league-maps/bakkes-patch-notes/raw/refs/heads/main/Dribble2.zip",
-    "thumbnail_url": "https://images.squarespace-cdn.com/content/v1/57991090414fb5e236319801/1499252445851-H60201YV3OIKY74S0P4A/Dribble+2.jpg"
-  },
-  {
-    "id": "2",
-    "title": "Lethamyr's Giant Rings",
+    "title": "Lethamyr's Neon Height Rings",
     "author": "Lethamyr",
-    "download_url": "https://github.com/rocket-league-maps/bakkes-patch-notes/raw/refs/heads/main/GiantRings.zip",
-    "thumbnail_url": "https://lethamyr.com/s/GiantRings.jpg"
+    "download_url": "https://github.com/trojan266/rl-map-index/releases/download/v1.2/LethNeonHeightsRings.udk",
+    "thumbnail_url": "https://github.com/trojan266/rl-map-index/blob/main/lethneonheightrings.jpg"
   }
+
 ]
